@@ -40,13 +40,6 @@ https://yamuna-11-yamuna.github.io/Tribute-Page/
 
 ---
 
-## 📂 Project Structure
-Tribute-Page/
-│── index.html
-│── style.css
-│── image.png
-└── README.md
-
 ## 📬 Author
 **Yamuna**  
 GitHub: [@yamuna-11-yamuna](https://github.com/yamuna-11-yamuna)
